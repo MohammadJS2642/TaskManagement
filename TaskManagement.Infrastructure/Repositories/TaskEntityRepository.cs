@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TaskManagement.Application.Infrastructures;
+using TaskManagement.Domain.Entities;
 using TaskManagement.Infrastructure.Persistence;
-using TaskManagement.Model.Entities;
 
 namespace TaskManagement.Infrastructure.Repositories;
 

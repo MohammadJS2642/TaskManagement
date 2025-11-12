@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TaskManagement.Application.UseCases.TaskEntityCase;
-using TaskManagement.Model.Entities;
+using TaskManagement.Domain.Entities;
 
 namespace TaskManagement.Api.Controllers
 {

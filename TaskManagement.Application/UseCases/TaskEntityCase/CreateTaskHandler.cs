@@ -1,5 +1,5 @@
 ﻿using TaskManagement.Application.Infrastructures;
-using TaskManagement.Model.Entities;
+using TaskManagement.Domain.Entities;
 
 namespace TaskManagement.Application.UseCases.TaskEntityCase;
 
